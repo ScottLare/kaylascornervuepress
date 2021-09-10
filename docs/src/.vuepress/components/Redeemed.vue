@@ -372,6 +372,3 @@
     </div>
   </div>
 </template>
-<style lang="stylus">
-@import '../styles/tailwind.styl';
-</style>

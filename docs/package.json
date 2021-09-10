@@ -1,13 +1,13 @@
 {
-  "name": "StaticTeamPortal",
+  "name": "kaylasCorner",
   "version": "0.0.1",
-  "description": "Team Portal for users",
+  "description": "",
   "main": "index.js",
   "authors": {
     "name": "",
     "email": ""
   },
-  "repository": "https://github.rti.org/RTI/StaticTeamPortal.git/StaticTeamPortal",
+  "repository": "/kaylasCorner",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
@@ -16,10 +16,7 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.36",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.8",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14",
     "vuepress": "^1.5.3"
-  },
-  "dependencies": {
-    "vue-router": "^3.5.2"
   }
 }

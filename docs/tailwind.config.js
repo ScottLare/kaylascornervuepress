@@ -1,10 +1,10 @@
 module.exports = {
-  purge: ["./src/**/*.md", "./src/**/*.vue"],
+  purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
       fontFamily: {
-        'letter': ['Indie Flower'],
+        letter: ["Indie Flower"],
       },
       backgroundImage: {
         main: "url('/images/kaylaCornerMain_1.png')",
