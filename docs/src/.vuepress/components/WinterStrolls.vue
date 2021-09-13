@@ -26,6 +26,7 @@
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
           Be wary of beauty, of unrestrained charm
           <br />
+<<<<<<< HEAD
 Winter Strolls in the South
 
 My nose burns
@@ -51,11 +52,22 @@ Birds discussing their Christmas plans
 Nothing has died
 
 Yet everything has changed        </p>
+=======
+          Winter Strolls in the South My nose burns In a pleasant sort of way
+          Every time I inhale The crisp air that surrounds me Crisp, not cold
+          Cold is sharp and unwelcoming Crisp is refreshing And refreshing it is
+          Autumn leaves in December Birds discussing their Christmas plans
+          Nothing has died Yet everything has changed
+        </p>
+>>>>>>> b9446b8a03b3bded312a3fbc784cf19462d5d525
         <br />
       </div>
     </div>
   </div>
 </template>
+<<<<<<< HEAD
 <style lang="stylus">
 @import '../styles/tailwind.styl';
 </style>
+=======
+>>>>>>> b9446b8a03b3bded312a3fbc784cf19462d5d525
