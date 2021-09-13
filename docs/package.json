@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "authors": {
-    "name": "",
+    "name": "Kayla",
     "email": ""
   },
-  "repository": "/kaylasCorner",
+  "repository": "https://github.com/ScottLare/kaylascornervuepress.git",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
