@@ -1,0 +1,2 @@
+<template><ChalkboardPoetry />
+</template>
