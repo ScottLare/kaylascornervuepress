@@ -1,0 +1,2 @@
+<template><Politician />
+</template>
