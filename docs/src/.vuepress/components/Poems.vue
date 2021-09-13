@@ -36,6 +36,34 @@
         <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
           <img src="/images/balancebeam_1.png" /></button
       ></a>
+      <a href="/thegreatchange">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/greatchange_1.png" /></button
+      ></a>
+      <a href="/winterstrolls">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/winterstrolls_1.png" /></button
+      ></a>
+      <a href="/chasingthesun">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/chasingsun_1.png" /></button
+      ></a>
+      <a href="/meltdownlivingroom">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/meltdownlivingroom_1.png" /></button
+      ></a>
+      <a href="/astudypublicschool">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/astudypublic_1.png" /></button
+      ></a>
+      <a href="/atleastnotorangejumpsuit">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/atleastnotorange_1.png" /></button
+      ></a>
+      <a href="/tick">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/tick_1.png" /></button
+      ></a>
 
       <br />
     </div>
