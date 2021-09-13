@@ -10,7 +10,7 @@
   "repository": "https://github.com/ScottLare/kaylascornervuepress.git",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build docs"
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
