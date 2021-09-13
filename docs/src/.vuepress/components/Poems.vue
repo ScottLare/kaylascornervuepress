@@ -32,6 +32,10 @@
         <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
           <img src="/images/groomed_1.png" /></button
       ></a>
+      <a href="/balancebeam">
+        <button class="w-72 h-96 hover:bg-blue-200 rounded-full">
+          <img src="/images/balancebeam_1.png" /></button
+      ></a>
 
       <br />
     </div>
