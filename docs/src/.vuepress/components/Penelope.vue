@@ -1,7 +1,5 @@
 <template>
   <div class="bg-scroll bg-main2 bg-center bg-cover h-screen overflow-auto">
-    <!-- <div class="max-w-sm w-full lg:max-w-full lg:flex"> -->
-    <!--  <div class="h-40 w-80">  -->
     <div
       class="
         ml-0
@@ -17,12 +15,6 @@
       "
     >
 
-<!--
-        sm:ml-24
-        sm:mr-24
-        sm:mt-24
-sm:ml-56
-  -->
 
       <div class="mb-8 ml-0 pt-24 grid grid-cols-1 ">
         <div class="text-gray-900 font-bold text-2xl mb-2 ml-0 mr-0 sm:mr-60 sm:ml-16 sm:text-4xl">
