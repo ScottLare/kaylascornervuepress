@@ -2,7 +2,6 @@
   <div
     class="
       grid place-items-center 
-      min-h-screen
       bg-scroll bg-main2 bg-center bg-cover
       h-screen
       overflow-auto

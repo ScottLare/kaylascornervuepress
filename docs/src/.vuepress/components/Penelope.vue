@@ -19,7 +19,7 @@
         overscroll-contain
       "
     >
-      <div class="mb-8 ml-0 pt-24 sm:ml-56">
+      <div class="mb-8 ml-0 pt-24 grid grid-cols-1 sm:ml-56">
         <div class="text-gray-900 font-bold text-2xl mb-2 ml-0 sm:mr-60 sm:ml-16 sm:text-4xl">
           Penelope Cloverfield and the Tale of the Predictable Prophecy
           <br />
