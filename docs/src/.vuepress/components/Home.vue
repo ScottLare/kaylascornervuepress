@@ -2,8 +2,9 @@
   <body>
     <section
       class="
-        grid place-items-center 
-        min-h-screen
+        grid 
+        place-items-left
+        xs:place-items-center 
         text-gray-300
         body-font
         items-center
