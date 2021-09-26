@@ -30,6 +30,10 @@
         <button class="w-80 h-72 hover:bg-blue-200 rounded-full">
           <img src="/images/bathsheba_1.png" /></button
       ></a>
+      <a href="/theladykiller">
+        <button class="w-80 h-72 hover:bg-blue-200 rounded-full">
+          <img src="/images/theladykiller.png" /></button
+      ></a>
       <a href="/groomed">
         <button class="w-80 h-72 hover:bg-blue-200 rounded-full">
           <img src="/images/groomed_1.png" /></button
@@ -66,11 +70,6 @@
         <button class="w-80 h-72 hover:bg-blue-200 rounded-full">
           <img src="/images/tick_1.png" /></button
       ></a>
-      <a href="/theladykiller">
-        <button class="w-80 h-72 hover:bg-blue-200 rounded-full">
-          <img src="/images/theladykiller.png" /></button
-      ></a>
-
       <br />
     </div>
   </div>
