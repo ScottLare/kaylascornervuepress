@@ -18,39 +18,36 @@
     >
       <div class="mb-8 ml-56 pt-24">
         <div class="text-gray-900 font-bold text-4xl mb-2 ml-8 mr-60">
-          when the artist haunts the muse
+          Winter Strolls in the South
           <br />
           <span class="italic text-red-400 text-2xl">By: Kayla Lare</span>
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-          Be wary of beauty, of unrestrained charm
+          My nose burns
           <br />
-Winter Strolls in the South
-
-My nose burns
-
-In a pleasant sort of way
-
-Every time I inhale
-
-The crisp air that surrounds me
-
-Crisp, not cold
-
-Cold is sharp and unwelcoming
-
-Crisp is refreshing
-
-And refreshing it is
-
-Autumn leaves in December
-
-Birds discussing their Christmas plans
-
-Nothing has died
-
-Yet everything has changed        </p>
+          In a pleasant sort of way
+          <br />
+          Every time I inhale
+          <br />
+          The crisp air that surrounds me
+          <br />
+          Crisp, not cold
+          <br />
+          Cold is sharp and unwelcoming
+          <br />
+          Crisp is refreshing
+          <br />
+          And refreshing it is
+          <br />
+          Autumn leaves in December
+          <br />
+          Birds discussing their Christmas plans
+          <br />
+          Nothing has died
+          <br />
+          Yet everything has changed
+        </p>
         <br />
       </div>
     </div>

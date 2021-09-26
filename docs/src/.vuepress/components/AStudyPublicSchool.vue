@@ -18,58 +18,51 @@
     >
       <div class="mb-8 ml-56 pt-24">
         <div class="text-gray-900 font-bold text-4xl mb-2 ml-8 mr-60">
-          when the artist haunts the muse
+          A Study Of The Public School System
           <br />
           <span class="italic text-red-400 text-2xl">By: Kayla Lare</span>
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-          Be wary of beauty, of unrestrained charm
+          Trapped inside a red-brick cage
           <br />
-
-A Study Of The Public School System
-
-Trapped inside a red-brick cage
-
-Nothing you can do
-
-But let time slip away
-
-Pencils tapping and pens clicking
-
-Brain fried from lack of sleeping
-
-
-
-Busy work, that’s what we’re given
-
-Meaningless sheets meant for children
-
-Nothing that inspires growth or creativity
-
-Teachers ignore America’s promise of liberty
-
-
-
-To learn something that will help me in the future?
-
-The importance of algebra is just a rumor
-
-Sharing tired glances with zombified peers
-
-Counting down days ‘til we’re out of here
-
-
-
-The stress so heavy it curves my shoulders in
-
-The days so indistinguishable 
-
-My patience paper thin
-
-Day after day like an endless abyss
-
-These are the days they tell us we’ll miss        </p>
+          Nothing you can do
+          <br />
+          But let time slip away
+          <br />
+          Pencils tapping and pens clicking
+          <br />
+          Brain fried from lack of sleeping
+          <br />
+          <br />
+          Busy work, that’s what we’re given
+          <br />
+          Meaningless sheets meant for children
+          <br />
+          Nothing that inspires growth or creativity
+          <br />
+          Teachers ignore America’s promise of liberty
+          <br />
+          <br />
+          To learn something that will help me in the future?
+          <br />
+          The importance of algebra is just a rumor
+          <br />
+          Sharing tired glances with zombified peers
+          <br />
+          Counting down days ‘til we’re out of here
+          <br />
+          <br />
+          The stress so heavy it curves my shoulders in
+          <br />
+          The days so indistinguishable
+          <br />
+          My patience paper thin
+          <br />
+          Day after day like an endless abyss
+          <br />
+          These are the days they tell us we’ll miss
+        </p>
         <br />
       </div>
     </div>

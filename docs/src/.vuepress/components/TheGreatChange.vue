@@ -24,39 +24,39 @@
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-
-
-I'm standing in between a new beginning and an unexpected end
-
-Soaking in the antagonizing moments before a change
-
-The moments that feel like the end of summer
-
-When you're ready for the bright sun to sink behind the clouds and for verdant leaves to meet their demise
-
-
-
-The image is exciting. The image is tragic.
-
-But aren't all endings tragic?
-
-Maybe not.
-
-One must admit that scarlet leaves are just as alluring as their predecessor
-
-They're the color of fire
-
-Fire that caught and burned down the previous season as if it never existed at all
-
-
-
-I hope my previous seasons don't burn down
-
-But if they do
-
-I can hold onto the steadfast knowledge
-
-That summer comes around again        </p>
+          I'm standing in between a new beginning and an unexpected end
+          <br />
+          Soaking in the antagonizing moments before a change
+          <br />
+          The moments that feel like the end of summer
+          <br />
+          When you're ready for the bright sun to sink behind the clouds and for
+          verdant leaves to meet their demise
+          <br />
+          <br />
+          The image is exciting. The image is tragic.
+          <br />
+          But aren't all endings tragic?
+          <br />
+          Maybe not.
+          <br />
+          One must admit that scarlet leaves are just as alluring as their
+          predecessor
+          <br />
+          They're the color of fire
+          <br />
+          Fire that caught and burned down the previous season as if it never
+          existed at all
+          <br />
+          <br />
+          I hope my previous seasons don't burn down
+          <br />
+          But if they do
+          <br />
+          I can hold onto the steadfast knowledge
+          <br />
+          That summer comes around again
+        </p>
         <br />
       </div>
     </div>

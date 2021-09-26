@@ -18,55 +18,49 @@
     >
       <div class="mb-8 ml-56 pt-24">
         <div class="text-gray-900 font-bold text-4xl mb-2 ml-8 mr-60">
-          when the artist haunts the muse
+          TICK
           <br />
           <span class="italic text-red-400 text-2xl">By: Kayla Lare</span>
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-          Be wary of beauty, of unrestrained charm
+          I’m practically invisible
           <br />
-TICK
-
-I’m practically invisible 
-
-and that feeling’s sweet
-
-knowing I can see them
-
-but they can’t see me
-
-
-
-dangling from branches
-
-holding onto leaves
-
-waiting for my moment
-
-to harvest and to feast
-
-
-
-cling on to their socks
-
-sit upon their feet
-
-find a place to plant yourself
-
-a place you can’t be seen
-
-
-
-bury a head into soft skin
-
-drunk on blood the room starts to spin
-
-too bad your host is itching away 
-
-too bad your host doesn’t want you to stay
-
-too bad you’re picked out and thrown away        </p>
+          and that feeling’s sweet
+          <br />
+          knowing I can see them
+          <br />
+          but they can’t see me
+          <br />
+          <br />
+          dangling from branches
+          <br />
+          holding onto leaves
+          <br />
+          waiting for my moment
+          <br />
+          to harvest and to feast
+          <br />
+          <br />
+          cling on to their socks
+          <br />
+          sit upon their feet
+          <br />
+          find a place to plant yourself
+          <br />
+          a place you can’t be seen
+          <br />
+          <br />
+          bury a head into soft skin
+          <br />
+          drunk on blood the room starts to spin
+          <br />
+          too bad your host is itching away
+          <br />
+          too bad your host doesn’t want you to stay
+          <br />
+          too bad you’re picked out and thrown away
+        </p>
         <br />
       </div>
     </div>

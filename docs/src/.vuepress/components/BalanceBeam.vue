@@ -24,67 +24,61 @@
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-
-I’m from the sound of racing feet 
-
-Upon a dried up summer lawn 
-
-I’m from the shivers under my coat 
-
-As I stomp across the New York snow 
-
-I’m from a stitch between two worlds 
-
-Vegetable gardens and Madison Square 
-
-I’m from two different American Dreams 
-
-Two paths that merged into one 
-
- 
-
-I am from blended paints 
-
-From burnt toast breakfasts and curry spice dinners 
-
-I am from scrambled letters 
-
-From midnight drives and early morning runs 
-
-I’m from a safety net, from "don't talk to strangers” 
-
-I’m from “there are no rules, but elbows off the table” 
-
- 
-
-I am from a balance beam 
-
-From a variety of dimensions 
-
-Where the directions are all different 
-
-Where things jumble and combine 
-
-I’m from a collage  
-
-Pasted and taped together 
-
-A collage that reminds me of all my contradictions 
-
-All my contradictions, they are where I am from 
-
-But it’s my contradictions that make me wonder 
-
-What will I become? 
+          I’m from the sound of racing feet
+          <br />
+          Upon a dried up summer lawn
+          <br />
+          I’m from the shivers under my coat
+          <br />
+          As I stomp across the New York snow
+          <br />
+          I’m from a stitch between two worlds
+          <br />
+          Vegetable gardens and Madison Square
+          <br />
+          I’m from two different American Dreams
+          <br />
+          Two paths that merged into one
+          <br />
+          <br />
+          I am from blended paints
+          <br />
+          From burnt toast breakfasts and curry spice dinners
+          <br />
+          I am from scrambled letters
+          <br />
+          From midnight drives and early morning runs
+          <br />
+          I’m from a safety net, from "don't talk to strangers”
+          <br />
+          I’m from “there are no rules, but elbows off the table”
+          <br />
+          <br />
+          I am from a balance beam
+          <br />
+          From a variety of dimensions
+          <br />
+          Where the directions are all different
+          <br />
+          Where things jumble and combine
+          <br />
+          I’m from a collage
+          <br />
+          Pasted and taped together
+          <br />
+          A collage that reminds me of all my contradictions
+          <br />
+          All my contradictions, they are where I am from
+          <br />
+          But it’s my contradictions that make me wonder
+          <br />
+          What will I become?
         </p>
         <br />
       </div>
     </div>
   </div>
 </template>
-<<<<<<< HEAD
 <style lang="stylus">
 @import '../styles/tailwind.styl';
 </style>
-=======
->>>>>>> b9446b8a03b3bded312a3fbc784cf19462d5d525

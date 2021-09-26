@@ -1,7 +1,5 @@
 <template>
   <div class="bg-scroll bg-main2 bg-center bg-cover h-screen overflow-auto">
-    <!-- <div class="max-w-sm w-full lg:max-w-full lg:flex"> -->
-    <!--  <div class="h-40 w-80">  -->
     <div
       class="
         ml-24
@@ -18,74 +16,67 @@
     >
       <div class="mb-8 ml-56 pt-24">
         <div class="text-gray-900 font-bold text-4xl mb-2 ml-8 mr-60">
-          when the artist haunts the muse
+          Chasing The Sun
           <br />
           <span class="italic text-red-400 text-2xl">By: Kayla Lare</span>
           <br />
         </div>
         <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
-          Be wary of beauty, of unrestrained charm
+          One thing is certain
           <br />
-Chasing The Sun
-One thing is certain
-
-The sky is blue
-
-Except it isn’t
-
-Not really
-
-Not when the sun chases the moon
-
-
-
-Between yesterday and tomorrow
-
-The sky dances with color
-
-Bathing him in orange
-
-In purples and pinks
-
-Bathing him in the knowledge 
-
-That there’s more out there than he thinks
-
-
-
-He’s standing on a balcony
-
-Never has he left the third floor
-
-But now he can’t help but wonder
-
-If he’s missing out on much more
-
-
-
-How many other colors does the sky have to offer?
-
-How many other sunsets can one boy discover?
-
-
-
-With the city streets below him
-
-He dangles his feet in open air
-
-In order to find a future
-
-He hopes is waiting out there
-
-
-
-He’ll catch a lift with the moon
-
-He’s never been one to run
-
-Finally catching up on all the years
-
-He should have spent chasing the sun        </p>
+          The sky is blue
+          <br />
+          Except it isn’t
+          <br />
+          Not really
+          <br />
+          Not when the sun chases the moon
+          <br />
+          <br />
+          Between yesterday and tomorrow
+          <br />
+          The sky dances with color
+          <br />
+          Bathing him in orange
+          <br />
+          In purples and pinks
+          <br />
+          Bathing him in the knowledge
+          <br />
+          That there’s more out there than he thinks
+          <br />
+          <br />
+          He’s standing on a balcony
+          <br />
+          Never has he left the third floor
+          <br />
+          But now he can’t help but wonder
+          <br />
+          If he’s missing out on much more
+          <br />
+          <br />
+          How many other colors does the sky have to offer?
+          <br />
+          How many other sunsets can one boy discover?
+          <br />
+          <br />
+          With the city streets below him
+          <br />
+          He dangles his feet in open air
+          <br />
+          In order to find a future
+          <br />
+          He hopes is waiting out there
+          <br />
+          <br />
+          He’ll catch a lift with the moon
+          <br />
+          He’s never been one to run
+          <br />
+          Finally catching up on all the years
+          <br />
+          He should have spent chasing the sun
+        </p>
         <br />
       </div>
     </div>
