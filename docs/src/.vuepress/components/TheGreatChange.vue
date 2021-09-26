@@ -62,9 +62,6 @@ That summer comes around again        </p>
     </div>
   </div>
 </template>
-<<<<<<< HEAD
 <style lang="stylus">
 @import '../styles/tailwind.styl';
 </style>
-=======
->>>>>>> b9446b8a03b3bded312a3fbc784cf19462d5d525
