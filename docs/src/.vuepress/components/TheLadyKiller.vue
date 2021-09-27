@@ -14,7 +14,7 @@
       "
     >
       <br />
-      <div class="mb-8  pt-24">
+      <div class="mb-8  pt-24  overscroll-auto">
         <div
           class="text-gray-900 font-bold text-3xl mb-2 ml-8 mr-1 sm:mr-60 sm:text-4xl"
         >

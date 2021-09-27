@@ -2,20 +2,20 @@
   <body>
     <section
       class="
-        grid 
         place-items-left
         sm:place-items-center 
         text-gray-300
         body-font
-        items-center
         bg-center bg-main bg-cover
-        overflow-hidden
         h-screen
+        overscroll-contain
+        bg-scroll
+        overflow-auto
       "
     >
-      <!-- <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col"></div> -->
-<!-- ml-80 mt-80 -->
-      <div class="grid grid-cols-1 mt-80 gap-16  p-4 max-w-5xl sm:grid-cols-2">
+      <div
+        class="grid grid-cols-1 gap-10 p-4 mt-60  sm:mt-80 sm:grid-cols-2 sm:ml-80 bg-scroll "
+      >
         <a href="/short_stories">
           <button class="w-60 h-40 hover:bg-blue-200 rounded-full">
             <img src="/images/KaylaShortStoriesBook.png" /></button
@@ -28,4 +28,3 @@
     </section>
   </body>
 </template>
-
