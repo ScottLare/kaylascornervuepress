@@ -1,12 +1,7 @@
 <template>
   <div class="bg-scroll bg-main2 bg-center bg-cover h-screen overflow-auto">
-    <!-- <div class="max-w-sm w-full lg:max-w-full lg:flex"> -->
-    <!--  <div class="h-40 w-80">  -->
     <div
       class="
-        ml-24
-        mr-24
-        mt-24
         h-screen
         flex-none
         bg-cover
@@ -14,16 +9,23 @@
         lg:rounded-t-none lg:rounded-l
         text-center
         overscroll-contain
+        container
+        mx-auto
       "
     >
-      <div class="mb-8 ml-56 pt-24">
-        <div class="text-gray-900 font-bold text-4xl mb-2 ml-8 mr-60">
+      <br />
+      <div class="mb-8  pt-24">
+        <div
+          class="text-gray-900 font-bold text-3xl mb-2 ml-8 mr-1 sm:mr-60 sm:text-4xl"
+        >
           The Lady Killer
           <br />
-          <span class="italic text-red-400 text-2xl">By: Kayla Lare</span>
+          <span class="italic text-red-400 text-1xl sm:text-2xl"
+            >By: Kayla Lare</span
+          >
           <br />
         </div>
-        <p class="text-gray-900 text-2xl p-8 mb-24 mr-56 text-center">
+        <p class="text-gray-900 p-8 text-1xl sm:text-2xl sm:mr-56 text-center">
           He’s brilliant and cool, and frighteningly tall
           <br />
           He has everything you want, anything at all
